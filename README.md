@@ -10,6 +10,9 @@
 * https://leetcode.com/problems/roman-to-integer/
   * 로마 문자를 정수로 변경 
   * hashTable
+* https://leetcode.com/problems/palindrome-number
+  * 회문을 확인하는 알고리즘
+  * array
 
 
 ## 참고

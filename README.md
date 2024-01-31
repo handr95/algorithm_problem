@@ -13,7 +13,9 @@
 * https://leetcode.com/problems/palindrome-number
   * 회문을 확인하는 알고리즘
   * array
-
+* https://leetcode.com/problems/add-two-numbers
+  * 두 개의 linkedlist의 각 요소의 합을 linkedlist 형식으로 만드는 알고리즘
+  * linkedlist
 
 ## 참고
 * leetcode

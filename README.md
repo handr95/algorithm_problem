@@ -16,6 +16,10 @@
 * https://leetcode.com/problems/add-two-numbers
   * 두 개의 linkedlist의 각 요소의 합을 linkedlist 형식으로 만드는 알고리즘
   * linkedlist
+* https://leetcode.com/problems/longest-substring-without-repeating-characters
+  * 중복되지 않은 문자열 중 가장 긴 문자열의 크기를 반환 하는 알고리즘
+  * hashTable
+
 
 ## 참고
 * leetcode

@@ -19,6 +19,9 @@
 * https://leetcode.com/problems/longest-substring-without-repeating-characters
   * 중복되지 않은 문자열 중 가장 긴 문자열의 크기를 반환 하는 알고리즘
   * hashTable
+* https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=java
+  * 체육수업을 들을 수 있는 학생의 최댓값을 구하는 알고리즘 
+  * greedy
 
 
 ## 참고

@@ -22,9 +22,13 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=java
   * 체육수업을 들을 수 있는 학생의 최댓값을 구하는 알고리즘 
   * greedy
-
+* https://leetcode.com/problems/next-greater-element-i/
+  * 다음으로 큰 수를 찾는 알고리즘
+  * greedy
 
 ## 참고
 * leetcode
     * https://leetcode.com/problemset/
+* programmers
+  * https://school.programmers.co.kr/learn/challenges?order=recent
 * https://github.com/JYEDU/algorithm_study

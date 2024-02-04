@@ -25,6 +25,10 @@
 * https://leetcode.com/problems/next-greater-element-i/
   * 다음으로 큰 수를 찾는 알고리즘
   * greedy
+* https://school.programmers.co.kr/learn/courses/30/lessons/42885
+  * 모든 사람을 구출하기 위해 필요한 구명보트 개수의 최솟값울 구하는 알고리즘
+  * greedy
+
 
 ## 참고
 * leetcode

@@ -10,7 +10,9 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/258712
   * 가장 많이 받이 선물 받은 친구의 선물 개수를 구하는 알고리즘
   * array
-
+* https://school.programmers.co.kr/learn/courses/30/lessons/42576
+  * 완주하지 못한 선수 찾는 알고리즘
+  * hash
 
 ### WEEK1
 

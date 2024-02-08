@@ -13,6 +13,9 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/42576
   * 완주하지 못한 선수 찾는 알고리즘
   * hash
+* https://school.programmers.co.kr/learn/courses/30/lessons/42860
+  * 조이스틱 조작 횟수의 최솟값을 구하는 알고리즘
+  * greedy
 
 ### WEEK1
 

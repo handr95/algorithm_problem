@@ -16,6 +16,9 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/42860
   * 조이스틱 조작 횟수의 최솟값을 구하는 알고리즘
   * greedy
+* https://school.programmers.co.kr/learn/courses/30/lessons/178871
+  * 추월한 선수들의 정보를 토대로 선수들의 순위를 구하는 알고리즘
+  * hash
 
 ### WEEK1
 

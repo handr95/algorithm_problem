@@ -22,6 +22,9 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/176963
   * 사진들의 추억 점수를 구하는 알고리즘
   * hash
+* https://school.programmers.co.kr/learn/courses/30/lessons/159994
+  * 카드 뭉치에서 원하는 문자열을 만드는 알고리즘
+  * array
 
 ### WEEK1
 

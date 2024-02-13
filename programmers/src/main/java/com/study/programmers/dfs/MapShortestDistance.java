@@ -62,42 +62,94 @@ import java.util.Queue;
  */
 public class MapShortestDistance {
 
+    public int mapShortestDistance(int[][] maps) {
+        if (maps[0][0] == 0){
+            return -1;
+        }
+        Queue<int[]> queue = new LinkedList();
+        // 시작점이 되는 x, y 좌표 값
+        queue.add(new int[]{0, 0});
+
+        int maxX = maps.length;
+        int maxY = maps[0].length;
+
+        int[][] history = new int[maxX][maxY];
+        history[0][0] = 1;
+
+        while (!queue.isEmpty()) {
+            int[] head = queue.poll();
+            int x = head[0];
+            int y = head[1];
+
+            int goX = x + 1;
+            int goY = y;
+            if (goX < maxX && history[goX][goY] == 0 && maps[goX][goY] == 1) {
+                queue.add(new int[]{goX, goY});
+                history[goX][goY] = history[x][y] + 1;
+            }
+
+            goX = x;
+            goY = y + 1;
+            if (goY < maxY && history[goX][goY] == 0 && maps[goX][goY] == 1) {
+                queue.add(new int[]{goX, goY});
+                history[goX][goY] = history[x][y] + 1;
+            }
+
+            goX = x - 1;
+            goY = y;
+            if (goX >= 0 && history[goX][goY] == 0 && maps[goX][goY] == 1) {
+                queue.add(new int[]{goX, goY});
+                history[goX][goY] = history[x][y] + 1;
+            }
+
+            goX = x;
+            goY = y - 1;
+            if (goY >= 0 && history[goX][goY] == 0 && maps[goX][goY] == 1) {
+                queue.add(new int[]{goX, goY});
+                history[goX][goY] = history[x][y] + 1;
+            }
+        }
+
+        return history[maxX - 1][maxY - 1] == 0 ? -1 : history[maxX - 1][maxY - 1];
+    }
+
     /**
      * 문제 이해:
-     *
+     * <p>
      * 이차원 배열 maps는 벽(0)과 길(1)로 이루어진 게임 맵을 나타냅니다.
      * 플레이어는 (1, 1)에서 출발하여 (n, m)인 상대팀 진영까지 이동해야 합니다.
      * 플레이어는 상하좌우로만 이동할 수 있으며, 벽은 통과할 수 없습니다.
-     *
+     * <p>
      * 해결 방법:
-     *
+     * <p>
      * BFS(Breadth-First Search) 알고리즘을 사용하여 상대팀 진영까지의 최단 거리를 계산합니다.
      * BFS는 시작 지점에서부터 한 단계씩 모든 가능한 방향으로 탐색하며 최단 거리를 찾는 알고리즘입니다.
      * 큐를 사용하여 BFS를 구현하며, 매 단계마다 상하좌우로 이동할 수 있는지 확인하여 탐색합니다.
-     *
+     * <p>
      * 알고리즘 설명:
-     *
+     * <p>
      * 시작 지점인 (1, 1)을 큐에 넣고, 거리를 1로 설정합니다.
      * 큐에서 꺼낸 위치에서 상하좌우로 이동할 수 있는지 확인합니다.
      * 이동할 수 있는 경우, 다음 위치와 거리를 큐에 넣습니다. 이때, 방문한 위치를 다시 방문하지 않도록 해당 위치를 0으로 표시합니다.
      * 큐가 빌 때까지 반복하며, 상대팀 진영에 도착하면 해당 거리를 반환합니다.
      * 만약 상대팀 진영에 도착할 수 없는 경우 -1을 반환합니다.
-     *
+     * <p>
      * 코드 설명:
-     *
+     * <p>
      * 코드는 주어진 문제를 해결하기 위해 BFS 알고리즘을 사용하여 상대팀 진영까지의 최단 거리를 계산합니다.
      * 각 위치에서 상하좌우로 이동하며 맵을 탐색하고, 이동할 수 있는 경우에는 다음 위치와 거리를 큐에 넣습니다.
      * 방문한 위치를 다시 방문하지 않도록 해당 위치를 0으로 표시하여 큐에 중복해서 추가되지 않도록 합니다.
      * BFS 탐색이 끝난 후에는 상대팀 진영까지의 최단 거리를 반환하며, 도달할 수 없는 경우 -1을 반환합니다.
-     *
+     * <p>
      * 테스트 및 결과:
-     *
+     * <p>
      * 코드는 주어진 맵에 대해 상대팀 진영까지의 최단 거리를 계산합니다.
      * 이를 통해 플레이어가 게임 맵에서 상대팀 진영까지 얼마나 빠르게 이동할 수 있는지를 확인할 수 있습니다.
+     *
      * @param maps
      * @return
      */
-    public int mapShortestDistance(int[][] maps) {
+    public int solution(int[][] maps) {
         int n = maps.length;
         int m = maps[0].length;
 

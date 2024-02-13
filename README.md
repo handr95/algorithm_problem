@@ -2,6 +2,12 @@
 
 ## 이력 
 
+### WEEK3
+
+* https://school.programmers.co.kr/learn/courses/30/lessons/1844
+  * 상대 진영까지 가는 가장 빠른길을 찾는 알고리즘
+  * dfs
+
 ### WEEK2
 
 * https://school.programmers.co.kr/learn/courses/30/lessons/1845

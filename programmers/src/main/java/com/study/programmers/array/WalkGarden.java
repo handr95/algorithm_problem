@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 공원 산책
- * 2단게
+ * 1단게
  * https://school.programmers.co.kr/learn/courses/30/lessons/172928
  *
  * 문제 설명

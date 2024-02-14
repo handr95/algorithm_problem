@@ -4,6 +4,9 @@
 
 ### WEEK3
 
+* https://school.programmers.co.kr/learn/courses/30/lessons/172928
+  * 로봇 강아지가 산책하여 도착한 좌표를 찾는 알고리즘
+  * array
 * https://school.programmers.co.kr/learn/courses/30/lessons/1844
   * 상대 진영까지 가는 가장 빠른길을 찾는 알고리즘
   * dfs

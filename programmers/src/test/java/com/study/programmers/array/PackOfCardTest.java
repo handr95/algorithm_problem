@@ -1,6 +1,5 @@
 package com.study.programmers.array;
 
-import com.study.programmers.array.PackOfCard;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

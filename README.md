@@ -10,6 +10,12 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/1844
   * 상대 진영까지 가는 가장 빠른길을 찾는 알고리즘
   * dfs
+* https://school.programmers.co.kr/learn/courses/30/lessons/77884
+  * 약수의 개수를 모두 구해 더하고 빼는 알고리즘
+  * math
+* https://school.programmers.co.kr/learn/courses/30/lessons/12917
+  * 문자열 내림차순으로 배치하는 알고리즘
+  * sort
 
 ### WEEK2
 

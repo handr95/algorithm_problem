@@ -16,6 +16,15 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/12917
   * 문자열 내림차순으로 배치하는 알고리즘
   * sort
+* https://school.programmers.co.kr/learn/courses/30/lessons/120866
+  * 지회밭에서 안전지대 찾는 알고리즘
+  * array
+* https://school.programmers.co.kr/learn/courses/30/lessons/12940
+  * 최대공약수와 최소공배수 찾는 알고리즘
+  * math
+* https://school.programmers.co.kr/learn/courses/30/lessons/120871
+  * 10진수의 수를 3x 마을 사람들의 사용하는 숫자로 변환하는 알고리즘
+  * search
 
 ### WEEK2
 

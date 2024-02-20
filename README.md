@@ -2,6 +2,13 @@
 
 ## 이력 
 
+### WEEK4
+
+* https://school.programmers.co.kr/learn/courses/30/lessons/12946
+  * 하노이의 탑
+  * recursion
+
+
 ### WEEK3
 
 * https://school.programmers.co.kr/learn/courses/30/lessons/172928

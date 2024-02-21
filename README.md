@@ -4,6 +4,9 @@
 
 ### WEEK4
 
+* https://school.programmers.co.kr/learn/courses/30/lessons/92334
+  * 신고하고 처리 결과를 메일로 받은 횟수를 구하는 알고리즘
+  * hash
 * https://school.programmers.co.kr/learn/courses/30/lessons/12946
   * 하노이의 탑
   * recursion

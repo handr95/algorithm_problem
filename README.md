@@ -4,6 +4,9 @@
 
 ### WEEK4
 
+* https://school.programmers.co.kr/learn/courses/30/lessons/133502
+  * 상수가 포장하는 햄버거의 개수를 구하는 알고리즘
+  * array
 * https://school.programmers.co.kr/learn/courses/30/lessons/92334
   * 신고하고 처리 결과를 메일로 받은 횟수를 구하는 알고리즘
   * hash

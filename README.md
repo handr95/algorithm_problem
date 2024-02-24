@@ -4,6 +4,9 @@
 
 ### WEEK4
 
+* https://school.programmers.co.kr/learn/courses/30/lessons/150370
+  * 개인 정보 유효기간이 지난 유저를 찾는 알고리즘
+  * array
 * https://school.programmers.co.kr/learn/courses/30/lessons/134240
   * 대회를 위한 음식의 배치를 나타내는 문자열 구하는 알고리즘
   * array

@@ -2,6 +2,11 @@
 
 ## 이력 
 
+### WEEK5
+* https://school.programmers.co.kr/learn/courses/30/lessons/250121
+  * 전달 받은 데이터를 필터링 후 오름차순 정렬하는 알고리즘
+  * hash
+
 ### WEEK4
 
 * https://school.programmers.co.kr/learn/courses/30/lessons/68644
@@ -106,3 +111,5 @@
 * programmers
   * https://school.programmers.co.kr/learn/challenges?order=recent
 * https://github.com/JYEDU/algorithm_study
+* https://github.com/LHY1990/codingTest
+* https://github.com/TempestZeta/Algorithm

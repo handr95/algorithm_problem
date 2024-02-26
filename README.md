@@ -6,7 +6,10 @@
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121
   * 전달 받은 데이터를 필터링 후 오름차순 정렬하는 알고리즘
   * hash
-
+* https://leetcode.com/problems/zigzag-conversion/description/
+  * 입력받은 문자열을 지그재그 형태로 정렬하는 알고리즘
+  * string
+  * 
 ### WEEK4
 
 * https://school.programmers.co.kr/learn/courses/30/lessons/68644

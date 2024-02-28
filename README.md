@@ -9,7 +9,11 @@
 * https://leetcode.com/problems/zigzag-conversion/description/
   * 입력받은 문자열을 지그재그 형태로 정렬하는 알고리즘
   * string
-  * 
+* https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+  * 공격력과 방어력이 낮은 캐릭터 수를 반환하는 알고리즘
+  * array, sort
+
+
 ### WEEK4
 
 * https://school.programmers.co.kr/learn/courses/30/lessons/68644
@@ -113,6 +117,9 @@
     * https://leetcode.com/problemset/
 * programmers
   * https://school.programmers.co.kr/learn/challenges?order=recent
+
+## 검토용
 * https://github.com/JYEDU/algorithm_study
 * https://github.com/LHY1990/codingTest
 * https://github.com/TempestZeta/Algorithm
+* https://github.com/mutsaga/algorithm_problem

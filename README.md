@@ -12,7 +12,12 @@
 * https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
   * 공격력과 방어력이 낮은 캐릭터 수를 반환하는 알고리즘
   * array, sort
-
+* https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+  * 공격력과 방어력이 낮은 캐릭터 수를 반환하는 알고리즘
+  * array, sort
+* https://leetcode.com/problems/string-to-integer-atoi
+  * 문자열을 숫자로 변환 하는 알고리즘
+  * string
 
 ### WEEK4
 

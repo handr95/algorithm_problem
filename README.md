@@ -18,6 +18,9 @@
 * https://leetcode.com/problems/string-to-integer-atoi
   * 문자열을 숫자로 변환 하는 알고리즘
   * string
+* https://leetcode.com/problems/longest-common-prefix
+  * 목록에서 동일한 접두사를 찾는 알고리즘
+  * string
 
 ### WEEK4
 

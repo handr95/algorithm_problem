@@ -21,6 +21,9 @@
 * https://leetcode.com/problems/longest-common-prefix
   * 목록에서 동일한 접두사를 찾는 알고리즘
   * string
+* https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+  * 정렬이 되어있는 배열에서 중복된 숫자를 제거하는 알고리즘
+  * array
 
 ### WEEK4
 

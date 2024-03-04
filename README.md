@@ -2,6 +2,11 @@
 
 ## 이력 
 
+### WEEK6
+* https://leetcode.com/problems/letter-combinations-of-a-phone-number
+  * 전달받은 전화 번호로 만들수 있는 문자 조합을 구하는 알고리즘
+  * backtracking
+
 ### WEEK5
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121
   * 전달 받은 데이터를 필터링 후 오름차순 정렬하는 알고리즘

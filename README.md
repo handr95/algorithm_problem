@@ -15,6 +15,9 @@
 * https://leetcode.com/problems/merge-two-sorted-lists/description/
   * 문자열 내 단어의 순서를 반대로 하는 알고리즘
   * string
+* https://leetcode.com/problems/merge-two-sorted-lists/description/
+  * 주어진 두 문자열을 번갈아가면서 문자를 추가하여 하나의 문자열을 만드는 알고리즘
+  * string
 
 ### WEEK5
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121

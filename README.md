@@ -12,6 +12,9 @@
 * https://leetcode.com/problems/merge-two-sorted-lists/description/
   * 두 정렬된 노드를 정렬된 상태로 병합하는 알고리즘
   * linkedlist
+* https://leetcode.com/problems/merge-two-sorted-lists/description/
+  * 문자열 내 단어의 순서를 반대로 하는 알고리즘
+  * string
 
 ### WEEK5
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121

@@ -6,6 +6,10 @@
 * https://leetcode.com/problems/letter-combinations-of-a-phone-number
   * 전달받은 전화 번호로 만들수 있는 문자 조합을 구하는 알고리즘
   * backtracking
+* https://leetcode.com/problems/4sum/description/
+  * 주어진 정수 배열에서 네 개의 숫자를 선택하여 그 합이 특정한 값이 되는 모든 고유한 네 개의 숫자 조합을 찾아 반환하는 알고리즘
+  * sort
+
 
 ### WEEK5
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121
@@ -14,9 +18,6 @@
 * https://leetcode.com/problems/zigzag-conversion/description/
   * 입력받은 문자열을 지그재그 형태로 정렬하는 알고리즘
   * string
-* https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
-  * 공격력과 방어력이 낮은 캐릭터 수를 반환하는 알고리즘
-  * array, sort
 * https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
   * 공격력과 방어력이 낮은 캐릭터 수를 반환하는 알고리즘
   * array, sort

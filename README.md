@@ -9,7 +9,9 @@
 * https://leetcode.com/problems/4sum/description/
   * 주어진 정수 배열에서 네 개의 숫자를 선택하여 그 합이 특정한 값이 되는 모든 고유한 네 개의 숫자 조합을 찾아 반환하는 알고리즘
   * sort
-
+* https://leetcode.com/problems/merge-two-sorted-lists/description/
+  * 두 정렬된 노드를 정렬된 상태로 병합하는 알고리즘
+  * linkedlist
 
 ### WEEK5
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121

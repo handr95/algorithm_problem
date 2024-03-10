@@ -18,6 +18,9 @@
 * https://leetcode.com/problems/merge-two-sorted-lists/description/
   * 주어진 두 문자열을 번갈아가면서 문자를 추가하여 하나의 문자열을 만드는 알고리즘
   * string
+* https://leetcode.com/problems/can-place-flowers/description/
+  * 인접하지 않은 공간에 목표 수량만큼 꽃을 심을수 있는지 확인하는 알고리즘
+  * array
 
 ### WEEK5
 * https://school.programmers.co.kr/learn/courses/30/lessons/250121

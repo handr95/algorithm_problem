@@ -16,6 +16,9 @@
 * https://leetcode.com/problems/remove-element/description
   * 배열에서 특정 요소를 제거하는 알고리즘
   * array
+* https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
+  * 나눗셈을 사용하지 않고 본인을 제외한 나머지 요소를 모두 곱한 값을 구하는 알고리즘
+  * array
 
 ### WEEK6
 * https://leetcode.com/problems/letter-combinations-of-a-phone-number

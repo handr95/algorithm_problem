@@ -51,4 +51,46 @@ public class ProductOfArrayExceptSelf {
 
         return result;
     }
+
+    public int[] solution1(int[] nums) {
+        int n = nums.length;
+
+        int[] result = new int[n];
+        result[0] = 1;
+
+        // 왼쪽 부분 배열의 곱을 계산하여 결과에 저장
+        for (int i = 1; i < n; i++) {
+            result[i] = result[i - 1] * nums[i - 1];
+        }
+
+        // 오른쪽 부분 배열의 곱과 결과를 계산하면서 업데이트
+        int rightProduct = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            result[i] *= rightProduct;
+            rightProduct *= nums[i];
+        }
+
+        return result;
+    }
+
+    public int[] solution2(int[] nums) {
+        int n = nums.length;
+
+        int[] result = new int[n];
+
+        // 왼쪽 부분 배열의 곱과 오른쪽 부분 배열의 곱을 동시에 계산하여 결과에 저장
+        int leftProduct = 1;
+        int rightProduct = 1;
+        for (int i = 0; i < n; i++) {
+            result[i] = leftProduct;
+            leftProduct *= nums[i];
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            result[i] *= rightProduct;
+            rightProduct *= nums[i];
+        }
+
+        return result;
+    }
 }

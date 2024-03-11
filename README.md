@@ -2,6 +2,21 @@
 
 ## 이력 
 
+### WEEK7
+
+* https://leetcode.com/problems/merge-sorted-array
+  * 두 정렬된 정수 배열을 각 요소수 만큼 병합하는 알고리즘  
+  * array
+* https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+  * 중복을 최대 2번까지만 허용하고 나머지 중복된 수를 제거하는 알고리즘
+  * array
+* https://leetcode.com/problems/majority-element
+  * 배열에서 과반수를 차지하고 있는 정수를 찾는 알고리즘
+  * hashtable
+* https://leetcode.com/problems/remove-element/description
+  * 배열에서 특정 요소를 제거하는 알고리즘
+  * array
+
 ### WEEK6
 * https://leetcode.com/problems/letter-combinations-of-a-phone-number
   * 전달받은 전화 번호로 만들수 있는 문자 조합을 구하는 알고리즘

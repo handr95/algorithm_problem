@@ -103,7 +103,10 @@
   * https://school.programmers.co.kr/learn/challenges?order=recent
 
 ## 검토용
-* https://github.com/JYEDU/algorithm_study
-* https://github.com/LHY1990/codingTest
-* https://github.com/TempestZeta/Algorithm
-* https://github.com/mutsaga/algorithm_problem
+| url                                          | week |
+| :------------------------------------------- | ---- |
+| https://github.com/JYEDU/algorithm_study     | 5    |
+| https://github.com/LHY1990/codingTest        | 7    |
+| https://github.com/TempestZeta/Algorithm     | 1    |
+| https://github.com/mutsaga/algorithm_problem | 1    |
+| https://github.com/jiyeon-dev/js_algorithm   | 5    |

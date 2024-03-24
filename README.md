@@ -2,16 +2,17 @@
 
 ## 이력
 
-### WEEK7(2024.03.18)
+### WEEK8(2024.03.18)
 
 
-| 문제                                  | 난이도    | 설명                                                   | 주요 키워드 | 플랫폼(링크)                                                 |
-|-------------------------------------|--------|------------------------------------------------------|--------| ------------------------------------------------------------ |
-| 624. Maximum Distance in Arrays     | Medium | 서로 다른 두 배열에서 선택한 두 정수 간의 최대 거리 차이를 구하는 알고리즘          | array  | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) |
+| 문제                                  | 난이도    | 설명                                                      | 주요 키워드 | 플랫폼(링크)                                                 |
+|-------------------------------------|--------|---------------------------------------------------------|--------| ------------------------------------------------------------ |
+| 624. Maximum Distance in Arrays     | Medium | 서로 다른 두 배열에서 선택한 두 정수 간의 최대 거리 차이를 구하는 알고리즘             | array  | [LeetCode](https://leetcode.com/problems/maximum-distance-in-arrays/) |
 | 334. Increasing Triplet Subsequence | Medium | i < j < k이면서 nums[i] < nums[j] < nums[k]가 되는지 판단하는 알고리즘 | array  | [LeetCode](https://leetcode.com/problems/increasing-triplet-subsequence/) |
-| 933. Number of Recent Calls         | Easy   | 특정 시간 프레임 내의 요청 수를 반환하는 알고리즘                         | queue  | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) |
-| 55. Jump Game         | Medium | 배열에서 점프하여 마지막 인덱스까지 도달할 수 있는지 여부를 구하는 알고리즘           | array  | [LeetCode](https://leetcode.com/problems/jump-game/) |
-| 104. Maximum Depth of Binary Tree         | Easy | 이진 트리의 최대 깊이를 구하는 알고리즘              | dfs    | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-trees) |
+| 933. Number of Recent Calls         | Easy   | 특정 시간 프레임 내의 요청 수를 반환하는 알고리즘                            | queue  | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) |
+| 55. Jump Game                       | Medium | 배열에서 점프하여 마지막 인덱스까지 도달할 수 있는지 여부를 구하는 알고리즘              | array  | [LeetCode](https://leetcode.com/problems/jump-game/) |
+| 104. Maximum Depth of Binary Tree   | Easy | 이진 트리의 최대 깊이를 구하는 알고리즘                                  | dfs    | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-trees) |
+| 2390. Removing Stars From a String  | Medium | 주어진 문자열에서 "*" 문자가 있다면 왼쪽 문자와 본인 자신을 제거하는 알고리즘           | stack  | [LeetCode](https://leetcode.com/problems/removing-stars-from-a-string) |
 
 ### WEEK7(2024.03.11)
 

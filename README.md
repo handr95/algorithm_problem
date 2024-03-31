@@ -5,9 +5,10 @@
 ### WEEK9(2024.03.27)
 
 
-| 문제              | 난이도    | 설명                                                      | 주요 키워드 | 플랫폼(링크)                                                 |
-|-----------------|--------|---------------------------------------------------------|--------| ------------------------------------------------------------ |
-| 274. H-Index    | Medium | H-Index를 계산하는 알고리즘             | array  | [LeetCode](https://leetcode.com/problems/h-index/) | 
+| 문제              | 난이도    | 설명                 | 주요 키워드 | 플랫폼(링크)                                                 |
+|-----------------|--------|--------------------|--------| ------------------------------------------------------------ |
+| 274. H-Index    | Medium | H-Index를 계산하는 알고리즘 | array  | [LeetCode](https://leetcode.com/problems/h-index/) |
+| 374. Guess Number Higher or Lower    | Easy   | 주어진 숫자를 맞추는 알고리즘   | Binary Search  | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower) |
 
 ### WEEK8(2024.03.18)
 

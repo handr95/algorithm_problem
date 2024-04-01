@@ -2,6 +2,15 @@
 
 ## 이력
 
+### WEEK10(2024.04.01)
+
+
+| 문제              | 난이도    | 설명                                      | 주요 키워드        | 플랫폼(링크)                                                 |
+|-----------------|--------|-----------------------------------------|---------------| ------------------------------------------------------------ |
+| 392. Is Subsequence    | Easy | 주어진 문자열이 다른 주어진 문자열의 부분 문자열인지 확인하는 알고리즘 | Two Pointers  | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
+| 283. Move Zeroes    | Easy   | 주어진 문자열에서 0을 제일 뒤로 이동시키는 알고리즘           | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes) |
+
+
 ### WEEK9(2024.03.27)
 
 

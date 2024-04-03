@@ -46,15 +46,19 @@ public class HIndex {
         return sortedInteger.length;
     }
 
+    // 인용횟수가 h번 이상인 논문이 적어도 h편이 되는 h의 최대값
     public int hIndex2(int[] citations) {
+        // 오름차순 정렬
         Arrays.sort(citations);
         int index = 1;
+        // 마지막 인덱스부터 for 문 시작
         for (int i = citations.length - 1; i >= 0; i --){
+            // 피인용수가 논문수보다 작아지기 직전의 숫자 검색
             if (index > citations[i]) {
                 return index - 1;
             }
             index ++;
         }
-        return citations[0] > index - 1 ? index - 1 :  citations[0];
+        return Math.min(citations[0], index - 1);
     }
 }

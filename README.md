@@ -5,12 +5,13 @@
 ### WEEK10(2024.04.01)
 
 
-| 문제                    | 난이도      | 설명                                      | 주요 키워드        | 플랫폼(링크)                                                 |
-|-----------------------|----------|-----------------------------------------|---------------| ------------------------------------------------------------ |
-| 392. Is Subsequence   | Easy     | 주어진 문자열이 다른 주어진 문자열의 부분 문자열인지 확인하는 알고리즘 | Two Pointers  | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
-| 283. Move Zeroes      | Easy     | 주어진 문자열에서 0을 제일 뒤로 이동시키는 알고리즘           | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes) |
-| 15. 3Sum              | Medium   | 배열 안에서 세 개의 숫자를 선택하여 합이 0이 되는 모든 고유한 조합을 찾는 알고리즘        | Two Pointers | [LeetCode](https://leetcode.com/problems/3sum) |
-|  11. Container With Most Water   | Medium   | 큰 물을 담을 수 있는 컨테이너의 용량을 찾는 알고리즘           | Two Pointers | [LeetCode]( https://leetcode.com/problems/container-with-most-water) |
+| 문제                    | 난이도      | 설명                                               | 주요 키워드        | 플랫폼(링크)                                                 |
+|-----------------------|----------|--------------------------------------------------|---------------| ------------------------------------------------------------ |
+| 392. Is Subsequence   | Easy     | 주어진 문자열이 다른 주어진 문자열의 부분 문자열인지 확인하는 알고리즘          | Two Pointers  | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
+| 283. Move Zeroes      | Easy     | 주어진 문자열에서 0을 제일 뒤로 이동시키는 알고리즘                    | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes) |
+| 15. 3Sum              | Medium   | 배열 안에서 세 개의 숫자를 선택하여 합이 0이 되는 모든 고유한 조합을 찾는 알고리즘 | Two Pointers | [LeetCode](https://leetcode.com/problems/3sum) |
+| 11. Container With Most Water   | Medium   | 큰 물을 담을 수 있는 컨테이너의 용량을 찾는 알고리즘                   | Two Pointers | [LeetCode]( https://leetcode.com/problems/container-with-most-water) |
+| 167. Two Sum II - Input Array Is Sorted | Medium   | 주어진 배열을 이용하여 목표값을 만들수 있는지 찾는 알고리즘         | Two Pointers | [LeetCode]( https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
 
 
 ### WEEK9(2024.03.27)

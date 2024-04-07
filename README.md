@@ -11,7 +11,8 @@
 | 283. Move Zeroes      | Easy     | 주어진 문자열에서 0을 제일 뒤로 이동시키는 알고리즘                    | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes) |
 | 15. 3Sum              | Medium   | 배열 안에서 세 개의 숫자를 선택하여 합이 0이 되는 모든 고유한 조합을 찾는 알고리즘 | Two Pointers | [LeetCode](https://leetcode.com/problems/3sum) |
 | 11. Container With Most Water   | Medium   | 큰 물을 담을 수 있는 컨테이너의 용량을 찾는 알고리즘                   | Two Pointers | [LeetCode]( https://leetcode.com/problems/container-with-most-water) |
-| 167. Two Sum II - Input Array Is Sorted | Medium   | 주어진 배열을 이용하여 목표값을 만들수 있는지 찾는 알고리즘         | Two Pointers | [LeetCode]( https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+| 167. Two Sum II - Input Array Is Sorted | Medium   | 주어진 배열을 이용하여 목표값을 만들수 있는지 찾는 알고리즘                | Two Pointers | [LeetCode]( https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |
+| 28. Find the Index of the First Occurrence in a String | Easy   | 주어진 문자열에서 타겟 문자열의 첫 번째 발생 위치를 찾는 알고리즘  | Two Pointers | [LeetCode]( https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 
 
 ### WEEK9(2024.03.27)

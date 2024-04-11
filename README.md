@@ -2,6 +2,15 @@
 
 ## 이력
 
+### WEEK11(2024.04.08)
+
+
+| 문제                    | 난이도      | 설명                             | 주요 키워드       | 플랫폼(링크)                                                 |
+|-----------------------|----------|--------------------------------|--------------| ------------------------------------------------------------ |
+| 200. Number of Islands   | Medium     | 육지('1')로 이루어진 섬의 개수를 반환하는 알고리즘 | Graph  | [LeetCode](https://leetcode.com/problems/number-of-islands) |
+| 130. Surrounded Regions      | Medium     | 'X'로 둘러싸인 'O'를 'X'로 변경하는 알고리즘  | Graph | [LeetCode](https://leetcode.com/problems/surrounded-regions) |
+
+
 ### WEEK10(2024.04.01)
 
 

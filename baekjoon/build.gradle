@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.study'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    sourceCompatibility = '17'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation "org.assertj:assertj-core:3.24.2"
+    testImplementation "org.junit.jupiter:junit-jupiter:5.10.0"
+}

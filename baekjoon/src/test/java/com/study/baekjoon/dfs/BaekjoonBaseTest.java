@@ -1,4 +1,4 @@
-package com.study.baekjoon.bfs;
+package com.study.baekjoon.dfs;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

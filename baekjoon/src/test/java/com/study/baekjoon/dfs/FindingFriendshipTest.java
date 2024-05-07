@@ -1,11 +1,11 @@
-package com.study.baekjoon.bfs;
+package com.study.baekjoon.dfs;
 
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
-import static com.study.baekjoon.bfs.FindFriendship.findFriendship;
+import static com.study.baekjoon.dfs.FindFriendship.findFriendship;
 
 class FindingFriendshipTest extends BaekjoonBaseTest {
 

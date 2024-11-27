@@ -7,7 +7,8 @@
 | 문제              | 난이도    | 설명                                  | 주요 키워드       | 플랫폼(링크)                                                     |
 |-----------------|--------|-------------------------------------|--------------|-------------------------------------------------------------|
 | 35. Search Insert Position   | Easy   | 정렬된 배열에서 주어진 타겟의 알맞은 위치를 검색하는 알고리즘  | Two Pointers | [LeetCode](https://leetcode.com/problems/search-insert-position)            |
-| 3110. Score of a String   | Easy   | 문자열의 점수를 계산하는 알고리즘  | String       | [LeetCode](https://leetcode.com/problems/score-of-a-string)            |
+| 3110. Score of a String   | Easy   | 문자열의 점수를 계산하는 알고리즘                  | String       | [LeetCode](https://leetcode.com/problems/score-of-a-string)            |
+| 2807. Insert Greatest Common Divisors in Linked List   | Medium   | 노드들 사이에 두 값의 GCD를 새로운 노드로 삽입하는 알고리즘 | linkedlist       | [LeetCode](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list)            |
 
 
 ### WEEK17(2024.09.02)
